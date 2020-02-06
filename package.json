@@ -1,0 +1,15 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "Appointments system",
+  "main": "index.js",
+  "repository": "https://github.com/Connor-SM/Mastering-React-Test-Driven-Development",
+  "author": "Connor Milliken",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
